@@ -1,2 +1,2 @@
-def func():
-    return None
+def func(a, b):
+    return a+b
